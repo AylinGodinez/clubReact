@@ -14,6 +14,8 @@ export default function App() {
   );
 }
 
+const userState;
+
 const url = 'https://calculadora-server.herokuapp.com/states-control';
 
 const consulta = () => {
